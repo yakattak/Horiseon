@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styles for benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -110,7 +111,7 @@ p {
 
 
 
-
+/*Styles for Main Sections Class */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,8 +126,6 @@ p {
 .main-section img {
     max-height: 200px;
 }
-
-
 
 .main-section h2 {
     margin-bottom: 20px;
