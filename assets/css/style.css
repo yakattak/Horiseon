@@ -75,6 +75,28 @@ p {
     margin-left: 20px;
 }
 
+/*Styles for Main Sections Class */
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+
+.main-section img {
+    max-height: 200px;
+}
+
+.main-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 /* Styles for benefits class */
 .benefits {
     margin-right: 20px;
@@ -111,26 +133,6 @@ p {
 
 
 
-/*Styles for Main Sections Class */
-.main-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-
-.main-section img {
-    max-height: 200px;
-}
-
-.main-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
