@@ -1,13 +1,20 @@
+/* CSS for al */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    
 }
 
+/*set background color for body */
 body {
     background-color: #d9dcd6;
 }
 
+/* set header class properties */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +47,15 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Set all generic <a> and <p> properties */
 a {
-    color: #ffffff;
-    text-decoration: none;
+    
 }
 
 p {
-    font-size: 16px;
+    
 }
-
+/* her class properties */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/*Float left and float right class properties */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +76,7 @@ p {
     margin-left: 25px;
 }
 
+/* content class properties */ 
 .content {
     width: 75%;
     display: inline-block;
@@ -133,7 +141,7 @@ p {
 
 
 
-
+/* styles for footer class */
 .footer {
     padding: 30px;
     clear: both;

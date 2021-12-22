@@ -6,3 +6,6 @@ Cleaned up the CSS.  Each of the main content blocks used the same stylings and 
 Each of the benefits could also be combined
 
 After this the time it would take to make it more efficient probably wasn't worth the effort (diminishing returns)
+
+
+[Link to Live Site ](https://yakattak.github.io/Horiseon/)
