@@ -3,9 +3,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 16px;
     
 }
 
@@ -49,11 +46,12 @@ body {
 }
 /* Set all generic <a> and <p> properties */
 a {
-    
+    color: #ffffff;
+    text-decoration: none;
 }
 
 p {
-    
+    font-size: 16px;
 }
 /* her class properties */
 .hero {
